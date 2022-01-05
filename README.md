@@ -28,6 +28,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [DesTree 🎄: A new way to view your list of graphs in desmos!](https://www.youtube.com/watch?v=Vks56T679ZQ)
+- [Channel intro/outro?!](https://www.youtube.com/watch?v=mnb_fQs7vEU)
+- [Rubik&#39;s Cube in Desmos!](https://www.youtube.com/watch?v=HRL6M-w3ur0)
+- [Chaotic Maps in Desmos &lpar;Part 2&rpar;](https://www.youtube.com/watch?v=wwDQ3B_BIyY)
+- [Illustrating the butterfly effect with a laser simulation](https://www.youtube.com/watch?v=s5oFZqIqzek)
 <!-- YOUTUBE:END -->
 
 ---
