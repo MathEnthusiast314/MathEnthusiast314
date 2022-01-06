@@ -41,8 +41,10 @@
 <!-- YOUTUBE:END -->
 
 ---
+<details>
+  <summary>:zap: GitHub Activity</summary>
 <!--START_SECTION:activity-->
-
+</details>
 <details>
   <summary>:zap: GitHub Stats</summary>
 
