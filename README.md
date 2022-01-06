@@ -44,7 +44,18 @@
 <details>
   <summary>:zap: GitHub Activity</summary>
 <!--START_SECTION:activity-->
+<<<<<<< HEAD
 </details>
+=======
+1. 🎉 Merged PR [#4](https://github.com/MathEnthusiast314/DesTree/pull/4) in [MathEnthusiast314/DesTree](https://github.com/MathEnthusiast314/DesTree)
+2. 💪 Opened PR [#4](https://github.com/MathEnthusiast314/DesTree/pull/4) in [MathEnthusiast314/DesTree](https://github.com/MathEnthusiast314/DesTree)
+3. 🎉 Merged PR [#3](https://github.com/MathEnthusiast314/DesTree/pull/3) in [MathEnthusiast314/DesTree](https://github.com/MathEnthusiast314/DesTree)
+4. 💪 Opened PR [#3](https://github.com/MathEnthusiast314/DesTree/pull/3) in [MathEnthusiast314/DesTree](https://github.com/MathEnthusiast314/DesTree)
+5. 🎉 Merged PR [#2](https://github.com/MathEnthusiast314/DesTree/pull/2) in [MathEnthusiast314/DesTree](https://github.com/MathEnthusiast314/DesTree)
+<!--END_SECTION:activity-->
+</details>
+
+>>>>>>> c6ff8afaf122d5ca9f94782757bd1b97b0f26b0c
 <details>
   <summary>:zap: GitHub Stats</summary>
 
