@@ -58,6 +58,10 @@
 
 </details>
 
+---
+
+![snake gif](https://github.com/MathEnthusiast314/MathEnthusiast314/blob/output/github-contribution-grid-snake.gif)
+
 
 [twitter]: https://twitter.com/enthusiast314
 [youtube]: https://youtube.com/MathEnthusiast314
