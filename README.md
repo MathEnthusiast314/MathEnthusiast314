@@ -44,11 +44,11 @@
 <details>
   <summary>:zap: GitHub Activity</summary>
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/DesmoSearch/desmosearch-api/pull/3) in [DesmoSearch/desmosearch-api](https://github.com/DesmoSearch/desmosearch-api)
-2. 🎉 Merged PR [#4](https://github.com/MathEnthusiast314/DesTree/pull/4) in [MathEnthusiast314/DesTree](https://github.com/MathEnthusiast314/DesTree)
-3. 💪 Opened PR [#4](https://github.com/MathEnthusiast314/DesTree/pull/4) in [MathEnthusiast314/DesTree](https://github.com/MathEnthusiast314/DesTree)
-4. 🎉 Merged PR [#3](https://github.com/MathEnthusiast314/DesTree/pull/3) in [MathEnthusiast314/DesTree](https://github.com/MathEnthusiast314/DesTree)
-5. 💪 Opened PR [#3](https://github.com/MathEnthusiast314/DesTree/pull/3) in [MathEnthusiast314/DesTree](https://github.com/MathEnthusiast314/DesTree)
+1. ❗️ Opened issue [#1](https://github.com/tandpfun/desmos-autosave/issues/1) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
+2. 🎉 Merged PR [#3](https://github.com/DesmoSearch/desmosearch-api/pull/3) in [DesmoSearch/desmosearch-api](https://github.com/DesmoSearch/desmosearch-api)
+3. 🎉 Merged PR [#4](https://github.com/MathEnthusiast314/DesTree/pull/4) in [MathEnthusiast314/DesTree](https://github.com/MathEnthusiast314/DesTree)
+4. 💪 Opened PR [#4](https://github.com/MathEnthusiast314/DesTree/pull/4) in [MathEnthusiast314/DesTree](https://github.com/MathEnthusiast314/DesTree)
+5. 🎉 Merged PR [#3](https://github.com/MathEnthusiast314/DesTree/pull/3) in [MathEnthusiast314/DesTree](https://github.com/MathEnthusiast314/DesTree)
 <!--END_SECTION:activity-->
 </details>
 <details>
