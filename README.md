@@ -33,7 +33,7 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [My Desmos Global Math Art Contest Submission...](https://www.youtube.com/watch?v=U2EWubhFjuM)
+- [My Desmos Global Math Art Contest Submission... &lpar;Finalist&rpar;](https://www.youtube.com/watch?v=U2EWubhFjuM)
 - [3D objects in desmos](https://www.youtube.com/watch?v=BFctwS5gt2w)
 - [DesTree 🎄: A new way to view your list of graphs in desmos!](https://www.youtube.com/watch?v=Vks56T679ZQ)
 - [Channel intro/outro?!](https://www.youtube.com/watch?v=mnb_fQs7vEU)
