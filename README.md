@@ -44,11 +44,11 @@
 <details>
   <summary>:zap: GitHub Activity</summary>
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/DesmoSearch/DesmoSearch-THEBOT/pull/1) in [DesmoSearch/DesmoSearch-THEBOT](https://github.com/DesmoSearch/DesmoSearch-THEBOT)
-2. 🗣 Commented on [#1](https://github.com/DesmoSearch/DesmoSearch-THEBOT/issues/1) in [DesmoSearch/DesmoSearch-THEBOT](https://github.com/DesmoSearch/DesmoSearch-THEBOT)
-3. 🗣 Commented on [#1](https://github.com/tandpfun/desmos-autosave/issues/1) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
-4. 🗣 Commented on [#2](https://github.com/tandpfun/desmos-autosave/issues/2) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
-5. ❗️ Opened issue [#2](https://github.com/tandpfun/desmos-autosave/issues/2) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
+1. 🗣 Commented on [#1](https://github.com/tandpfun/desmos-autosave/issues/1) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
+2. 🗣 Commented on [#2](https://github.com/tandpfun/desmos-autosave/issues/2) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
+3. ❗️ Opened issue [#2](https://github.com/tandpfun/desmos-autosave/issues/2) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
+4. ❗️ Opened issue [#1](https://github.com/tandpfun/desmos-autosave/issues/1) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
+5. 🎉 Merged PR [#3](https://github.com/DesmoSearch/desmosearch-api/pull/3) in [DesmoSearch/desmosearch-api](https://github.com/DesmoSearch/desmosearch-api)
 <!--END_SECTION:activity-->
 </details>
 <details>
