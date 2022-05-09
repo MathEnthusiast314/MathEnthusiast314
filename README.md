@@ -44,7 +44,7 @@
 <details>
   <summary>:zap: GitHub Activity</summary>
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/tandpfun/desmos-autosave/issues/1) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
+1. ❗️ Opened issue [#16](https://github.com/zombieFox/hexagonTab/issues/16) in [zombieFox/hexagonTab](https://github.com/zombieFox/hexagonTab)
 2. 🗣 Commented on [#2](https://github.com/tandpfun/desmos-autosave/issues/2) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
 3. ❗️ Opened issue [#2](https://github.com/tandpfun/desmos-autosave/issues/2) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
 4. ❗️ Opened issue [#1](https://github.com/tandpfun/desmos-autosave/issues/1) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
