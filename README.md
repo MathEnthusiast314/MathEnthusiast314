@@ -45,8 +45,8 @@
   <summary>:zap: GitHub Activity</summary>
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/tandpfun/desmos-autosave/issues/1) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
-2. ❗️ Opened issue [#1](https://github.com/27182818284590/DesCode/issues/1) in [27182818284590/DesCode](https://github.com/27182818284590/DesCode)
-3. ❗️ Opened issue [#2](https://github.com/tandpfun/desmos-autosave/issues/2) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
+2. 🗣 Commented on [#1](https://github.com/tandpfun/desmos-autosave/issues/1) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
+3. ❗️ Opened issue [#1](https://github.com/27182818284590/DesCode/issues/1) in [27182818284590/DesCode](https://github.com/27182818284590/DesCode)
 4. ❗️ Opened issue [#1](https://github.com/tandpfun/desmos-autosave/issues/1) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
 5. 🎉 Merged PR [#3](https://github.com/DesmoSearch/desmosearch-api/pull/3) in [DesmoSearch/desmosearch-api](https://github.com/DesmoSearch/desmosearch-api)
 <!--END_SECTION:activity-->
