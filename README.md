@@ -43,6 +43,7 @@
 ---
 <details>
   <summary>:zap: GitHub Activity</summary>
+  
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/tandpfun/desmos-autosave/issues/1) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
 2. 🗣 Commented on [#1](https://github.com/tandpfun/desmos-autosave/issues/1) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
@@ -54,9 +55,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ME314's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MathEnthusiast314&show_icons=true&hide_border=true&theme=radical" />
+  <img align="center" alt="ME314's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MathEnthusiast314&show_icons=true&hide_border=true&theme=radical" /><br/>
 
 </details>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MathEnthusiast314.MathEnthusiast314&left_text=Profile%20Visitors)
 
 ---
 
