@@ -33,7 +33,7 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Math is Beautiful If You Allow It To Be](https://www.youtube.com/watch?v=w-3pRJW-DF0)
+- [Yes, this is cooked on a Graphing Calculator](https://www.youtube.com/watch?v=w-3pRJW-DF0)
 - [My Desmos Global Math Art Contest Submission... &lpar;Finalist&rpar;](https://www.youtube.com/watch?v=U2EWubhFjuM)
 - [3D objects in desmos](https://www.youtube.com/watch?v=BFctwS5gt2w)
 - [DesTree 🎄: A new way to view your list of graphs in desmos!](https://www.youtube.com/watch?v=Vks56T679ZQ)
