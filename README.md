@@ -33,7 +33,7 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [EVAL_CAN_BE_HARMFUL &lpar;feat. Code.org&rpar;](https://www.youtube.com/watch?v=LzsQ6E2s9Fs)
+- [EVAL CAN BE HARMFUL &lpar;feat. Code.org&rpar;](https://www.youtube.com/watch?v=LzsQ6E2s9Fs)
 - [Cooked on the Desmos Graphing Calculator!](https://www.youtube.com/watch?v=w-3pRJW-DF0)
 - [My Desmos Global Math Art Contest Submission... &lpar;Finalist&rpar;](https://www.youtube.com/watch?v=U2EWubhFjuM)
 - [3D objects in desmos](https://www.youtube.com/watch?v=BFctwS5gt2w)
