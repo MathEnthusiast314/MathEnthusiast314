@@ -45,7 +45,7 @@
   <summary>:zap: GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/MathEnthusiast314/AutoFillSubscript/issues/1#issuecomment-3422009668) in [MathEnthusiast314/AutoFillSubscript](https://github.com/MathEnthusiast314/AutoFillSubscript)
+1. 💪 Opened PR [#3](https://github.com/BhavikDodda/amethyst/pull/3) in [BhavikDodda/amethyst](https://github.com/BhavikDodda/amethyst)
 2. 🗣 Commented on [#1](https://github.com/tandpfun/desmos-autosave/issues/1) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
 3. 🗣 Commented on [#1](https://github.com/tandpfun/desmos-autosave/issues/1) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
 4. ❗️ Opened issue [#1](https://github.com/tandpfun/desmos-autosave/issues/1) in [tandpfun/desmos-autosave](https://github.com/tandpfun/desmos-autosave)
