@@ -33,11 +33,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Bad Apple 🍎in Conway&#39;s Game of Life!](https://www.youtube.com/watch?v=1ouYxMgy-dg)
+- [Selfhost desmos](https://www.youtube.com/watch?v=Hg-p1Nq5OWM)
 - [EVAL CAN BE HARMFUL &lpar;feat. Code.org&rpar;](https://www.youtube.com/watch?v=LzsQ6E2s9Fs)
 - [Cooked on the Desmos Graphing Calculator!](https://www.youtube.com/watch?v=w-3pRJW-DF0)
 - [My Desmos Global Math Art Contest Submission... &lpar;Finalist&rpar;](https://www.youtube.com/watch?v=U2EWubhFjuM)
-- [3D objects in desmos](https://www.youtube.com/shorts/BFctwS5gt2w)
-- [DesTree 🎄: A new way to view your list of graphs in desmos!](https://www.youtube.com/watch?v=Vks56T679ZQ)
 <!-- YOUTUBE:END -->
 
 ---
